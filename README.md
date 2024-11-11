@@ -1,6 +1,6 @@
 About this research: : 
 
-My research goal is to understand how the pandemic has affected child mortality around the world looking a different countries. This research takes in 2 data sets that look at the number of deaths in children of specific ages and counties as well as death causes.
+My research goal is to understand how the pandemic has affected child mortality around the world looking a different countries. This research takes in 2 data sets that look at the number of deaths in children of specific ages and counties as well as death causes. This data analysis reviews different factors such as age, diseases, location and frequency statistics to determine the extent of child m
 
 Data set links: 
 https://genderdata.worldbank.org/en/indicator/sp-dyn-imrt-in?view=trend&geos=WLD
