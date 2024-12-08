@@ -1,11 +1,12 @@
 About this research: : 
 
-My research goal is to understand how the pandemic has affected child mortality around the world looking a different countries. This research takes in 2 data sets that look at the number of deaths in children of specific ages and counties as well as death causes. This data analysis reviews different factors such as age, diseases, location and frequency statistics to determine the extent of child m
+My research goal is to understand how child mortality has changed over a 5 year period from 2018 to 2022 in three countries: Brazil, Sudan, and the United Kingdom. This research takes in one dataset from the World Bank Group that looks at the total average and gender group number of child mortality rates per 1000 live births. This data analysis reviews different factors such as gender, year, and location to determine the extent of child mortality effects in these countries.
 
 Data set links: 
 https://genderdata.worldbank.org/en/indicator/sp-dyn-imrt-in?view=trend&geos=WLD
 
-https://www.who.int/data/gho/data/indicators/indicator-details/GHO/number-of-deaths
+license/terms of use for the data:
+https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets
 
 Links to other references: 
 
